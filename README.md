@@ -1,0 +1,2 @@
+# workflow
+alfred workflow
