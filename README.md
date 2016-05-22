@@ -1,7 +1,7 @@
 # workflow
 Alfred workflow, timestamp convertor, convert millis to time string. Written in shell!
 
-[Download](./TimestampConvertor.alfredworkflow)
+[Download](https://raw.github.com/ishare/workflow/master/TimestampConvertor.alfredworkflow)
 
 ## Usage:
 ts [now or timeInMillis or timeInSeconds]
