@@ -1,0 +1,6 @@
+{
+  "name": "Workflow",
+  "tagline": "alfred workflows: timestamp convertor, get ip address.",
+  "body": "# workflow\r\nAlfred workflows, including:\r\n\r\n1. timestamp convertor, convert millis to time string. \r\n[[Download](https://raw.github.com/ishare/workflow/master/TimestampConvertor.alfredworkflow)]\r\n\r\n2. get your ip address.\r\n[[Download](https://raw.github.com/ishare/workflow/master/IP.alfredworkflow)]\r\n\r\n\r\n## Usage:\r\nts [now or timeInMillis or timeInSeconds]\r\n\r\n![Screenshot](https://github.com/ishare/workflow/raw/master/screenshot/screenshot_1.jpg)\r\n![Screenshot](https://github.com/ishare/workflow/raw/master/screenshot/screenshot_2.jpg)\r\n![Screenshot](https://github.com/ishare/workflow/raw/master/screenshot/screenshot_3.jpg)\r\n\r\ntype `ip` to get your ip:\r\n\r\n![Screenshot](https://github.com/ishare/workflow/raw/master/screenshot/screenshot_4.jpg)",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
